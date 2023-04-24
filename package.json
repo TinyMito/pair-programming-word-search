@@ -1,7 +1,7 @@
 {
   "name": "word-search",
   "version": "1.0.0",
-  "description": "",
+  "description": "Word search through the matrix!",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/lighthouse-labs/pair-programming-word-search.git"
   },
-  "author": "",
+  "author": "Kevin Ip (Assigned pair programming cohort wasn't available)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lighthouse-labs/pair-programming-word-search/issues"
